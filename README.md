@@ -4,4 +4,5 @@ I created the Planet Earth Bard by prompting some description/details. It is a s
 If you want to chat with it, you may find the link here:
 
 Current website: https://glome.social/@planet-earth-bard
+
 Previous website:  https://exligent.com/@planet-earth-bard
